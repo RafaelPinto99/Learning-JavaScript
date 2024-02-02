@@ -1,3 +1,18 @@
+/*UNDERSTANDING SCOPE
+
+Global = Not in a function or block. Not desriable
+Local = In a function or block. Not global.
+var instantiates function() scoped variables
+let and const instantiate {block} sopced variables*/
+
+/*Helpful Tips
+Avoid using var. Stick with const and let.
+Use const unless you need to reassign value.
+Use let if you know you will reassign value. */
+
+
+
+
 //var x = 1; // var was used until 2015 and then const and let happened :D
 
 
